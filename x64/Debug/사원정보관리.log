@@ -1,0 +1,15 @@
+﻿  Employee.cpp
+  main.cpp
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(44,27): warning C4311: '형식 캐스트': 'const char *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(44,27): warning C4302: '형식 캐스트': 'const char *'에서 'int'(으)로 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(45,27): warning C4311: '형식 캐스트': 'const char *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(45,27): warning C4302: '형식 캐스트': 'const char *'에서 'int'(으)로 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(46,27): warning C4311: '형식 캐스트': 'const char *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(46,27): warning C4302: '형식 캐스트': 'const char *'에서 'int'(으)로 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(47,27): warning C4311: '형식 캐스트': 'const char *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(47,27): warning C4302: '형식 캐스트': 'const char *'에서 'int'(으)로 잘립니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(6,6): warning C4101: 'numbuffer' :참조되지 않은 지역 변수입니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(8,7): warning C4101: 'namebuffer' :참조되지 않은 지역 변수입니다.
+C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\사원정보관리\main.cpp(7,6): warning C4101: 'employeeNum' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  사원정보관리.vcxproj -> C:\Users\1\Documents\Programming_Data\IOT_edu\c++\Data Structure\x64\Debug\사원정보관리.exe
